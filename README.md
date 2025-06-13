@@ -6,4 +6,4 @@ Jak otestovat:
 1) Stáhnout a rozbalit
 2) přes VS/CMD composer install
 3) spustit "php spustit.php" (zde měnit typ adaptéru, Laravel bez napojení)
-4) Případně upravovat samotné testovací úlohy
+4) Případně upravovat samotné testovací úlohy 
