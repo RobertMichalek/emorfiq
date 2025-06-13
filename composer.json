@@ -1,0 +1,14 @@
+{
+    "name": "sandbox/planovac",
+    "description": "Testovací plánovač úloh",
+    "autoload": {
+        "psr-4": {
+            "Aplikace\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1",
+        "illuminate/console": "^12.18",
+        "crunzphp/crunz": "^3.1"
+    }
+}
